@@ -1,0 +1,4 @@
+/*
+The Heap sort is the type of sorting  algorithm in which the elements are present in heap datastructure and we 
+rebuild heap by extracting numbers from heap one by one.
+*/
